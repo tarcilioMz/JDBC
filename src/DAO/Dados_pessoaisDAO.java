@@ -22,7 +22,7 @@ import java.util.AbstractList;
 public class Dados_pessoaisDAO {
 
     private Connection conexao;
-
+// mnkjhjlhljjljjlkggffsdmvhjjnjjj
     public Dados_pessoaisDAO() {
         try {
             this.conexao = BDConection.getConnection();
